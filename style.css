@@ -1,0 +1,39 @@
+table {
+            font-family     : Helvetica, sans-serif;
+            border-collapse :inherit;
+            border-width    : 2px;
+            border-style    :double;
+            border-color    :#009879;
+            min-width       : 50px;
+            background-color:#009879 ;
+            margin          : 100px;
+            min-width       : 50px
+            
+}
+
+th{
+            font-weight     : 800;
+            background-color:#009879;
+            min-width       : 50px;
+            color           : black;
+            text-decoration :inherit;
+            text-align      :center;
+}
+        
+td{
+            font-weight: normal;
+            font-family: serif;
+            text-align:center;
+             
+}
+       
+
+h1{
+            font-family: sans-serif;
+            text-decoration: underline;
+            margin: 100px;
+            min-width: 50px
+        
+            
+}
+
